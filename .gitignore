@@ -1,0 +1,33 @@
+# Node.js / Vue.js
+/node_modules/
+/dist/
+/npm-debug.log
+/.sass-cache/
+/.vscode/
+*.sublime-workspace
+/.idea/
+/.vs/
+/.DS_Store
+
+# Python
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+*.cache/
+*.idea
+*.egg-info/
+dist/
+build/
+# environments
+.env
+
+# Virtual Environment
+venv/
+ENV/
+
+# Logs and databases
+*.log
+*.sql
+*.sqlite
+db.sqlite3
